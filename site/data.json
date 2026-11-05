@@ -95,6 +95,39 @@
    "id": "lukasz-karwacki"
   },
   {
+   "name": "Akanksha Prakash",
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "akanksha-prakash"
+  },
+  {
+   "name": "Blaz Bortolato",
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "blaz-bortolato"
+  },
+  {
+   "name": "João A. Gonçalves",
+   "aliases": [
+    "João Gonçalves"
+   ],
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "joao-a-goncalves"
+  },
+  {
    "name": "Charles Welch",
    "aliases": [
     "Charlie Welch",
@@ -163,6 +196,7 @@
     "caisa"
    ],
    "status": "current",
+   "since": 2025,
    "id": "frederik-labonte"
   },
   {
@@ -203,6 +237,7 @@
     "caisa"
    ],
    "status": "current",
+   "since": 2024,
    "id": "shangrui-nie"
   },
   {
@@ -216,6 +251,16 @@
    ],
    "status": "current",
    "id": "vahid-sadiri-javadi"
+  },
+  {
+   "name": "David Leonhard",
+   "role": "phd",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "david-leonhard"
   },
   {
    "name": "Allison Lahnala",
@@ -328,6 +373,26 @@
    "id": "zain-ul-abedin"
   },
   {
+   "name": "Dea Rexha",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "dea-rexha"
+  },
+  {
+   "name": "Rreze Vrapcani",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "rreze-vrapcani"
+  },
+  {
    "name": "Robin Haselhorst",
    "role": "student-assistant",
    "groups": [
@@ -344,6 +409,26 @@
    ],
    "status": "current",
    "id": "mohammad-faiz"
+  },
+  {
+   "name": "Justus Mairböck",
+   "role": "student-assistant",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "justus-mairbock"
+  },
+  {
+   "name": "Romina Raoofian",
+   "role": "student-assistant",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "romina-raoofian"
   },
   {
    "name": "Amir Hossein Aliakbarzadeh",

@@ -60,6 +60,28 @@ status = "current"
 since = 2025  # approx
 
 [[member]]
+name = "Akanksha Prakash"
+role = "postdoc"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # Jan 2026, start date from the group's member database
+
+[[member]]
+name = "Blaz Bortolato"
+role = "postdoc"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # Jun 2026, start date from the group's member database
+
+[[member]]
+name = "João A. Gonçalves"
+aliases = ["João Gonçalves"]
+role = "postdoc"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # Apr 2026, start date from the group's member database
+
+[[member]]
 name = "Charles Welch"
 aliases = ["Charlie Welch", "Charles F. Welch", "Charlie F. Welch"]
 role = "postdoc"
@@ -104,6 +126,7 @@ aliases = ["Frederik M. Labonté", "Frederik Maximilian Labonté"]
 role = "phd"
 groups = ["caisa"]
 status = "current"
+since = 2025  # Aug 2025, start date from the group's member database
 
 [[member]]
 name = "Lea Fischbach"
@@ -129,6 +152,7 @@ name = "Shangrui Nie"
 role = "phd"
 groups = ["caisa"]
 status = "current"
+since = 2024  # Mar 2024, start date from the group's member database
 
 [[member]]
 name = "Vahid Sadiri Javadi"
@@ -136,6 +160,13 @@ aliases = ["Vahid Javadi"]
 role = "phd"
 groups = ["caisa"]
 status = "current"
+
+[[member]]
+name = "David Leonhard"
+role = "phd"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # May 2026, start date from the group's member database
 
 [[member]]
 name = "Allison Lahnala"
@@ -212,6 +243,20 @@ groups = ["caisa"]
 status = "current"
 
 [[member]]
+name = "Dea Rexha"
+role = "master"  # thesis student
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # May 2026, start date from the group's member database
+
+[[member]]
+name = "Rreze Vrapcani"
+role = "master"  # thesis student
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # May 2026, start date from the group's member database
+
+[[member]]
 name = "Robin Haselhorst"
 role = "student-assistant"
 groups = ["mai-alignment"]
@@ -222,6 +267,20 @@ name = "Mohammad Faiz"
 role = "student-assistant"
 groups = ["mai-alignment"]
 status = "current"
+
+[[member]]
+name = "Justus Mairböck"
+role = "student-assistant"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # Nov 2026, start date from the group's member database
+
+[[member]]
+name = "Romina Raoofian"
+role = "student-assistant"
+groups = ["caisa"]  # group unverified
+status = "current"
+since = 2026  # Nov 2026, start date from the group's member database
 
 [[member]]
 name = "Amir Hossein Aliakbarzadeh"
