@@ -243,20 +243,6 @@ groups = ["caisa"]
 status = "current"
 
 [[member]]
-name = "Dea Rexha"
-role = "master"  # thesis student
-groups = ["caisa"]  # group unverified
-status = "current"
-since = 2026  # May 2026, start date from the group's member database
-
-[[member]]
-name = "Rreze Vrapcani"
-role = "master"  # thesis student
-groups = ["caisa"]  # group unverified
-status = "current"
-since = 2026  # May 2026, start date from the group's member database
-
-[[member]]
 name = "Robin Haselhorst"
 role = "student-assistant"
 groups = ["mai-alignment"]
@@ -267,20 +253,6 @@ name = "Mohammad Faiz"
 role = "student-assistant"
 groups = ["mai-alignment"]
 status = "current"
-
-[[member]]
-name = "Justus Mairböck"
-role = "student-assistant"
-groups = ["caisa"]  # group unverified
-status = "current"
-since = 2026  # Nov 2026, start date from the group's member database
-
-[[member]]
-name = "Romina Raoofian"
-role = "student-assistant"
-groups = ["caisa"]  # group unverified
-status = "current"
-since = 2026  # Nov 2026, start date from the group's member database
 
 [[member]]
 name = "Amir Hossein Aliakbarzadeh"

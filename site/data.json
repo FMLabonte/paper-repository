@@ -373,26 +373,6 @@
    "id": "zain-ul-abedin"
   },
   {
-   "name": "Dea Rexha",
-   "role": "master",
-   "groups": [
-    "caisa"
-   ],
-   "status": "current",
-   "since": 2026,
-   "id": "dea-rexha"
-  },
-  {
-   "name": "Rreze Vrapcani",
-   "role": "master",
-   "groups": [
-    "caisa"
-   ],
-   "status": "current",
-   "since": 2026,
-   "id": "rreze-vrapcani"
-  },
-  {
    "name": "Robin Haselhorst",
    "role": "student-assistant",
    "groups": [
@@ -409,26 +389,6 @@
    ],
    "status": "current",
    "id": "mohammad-faiz"
-  },
-  {
-   "name": "Justus Mairböck",
-   "role": "student-assistant",
-   "groups": [
-    "caisa"
-   ],
-   "status": "current",
-   "since": 2026,
-   "id": "justus-mairbock"
-  },
-  {
-   "name": "Romina Raoofian",
-   "role": "student-assistant",
-   "groups": [
-    "caisa"
-   ],
-   "status": "current",
-   "since": 2026,
-   "id": "romina-raoofian"
   },
   {
    "name": "Amir Hossein Aliakbarzadeh",
